@@ -8,7 +8,7 @@ It also allows fetching of the inputted data.
 
 ###Technologies Used
 
-Java Spark.Java Gradle Maven
+Java Spark.Java Gradle Maven.
 JSON
 
 ###Setup Instructions
