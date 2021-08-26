@@ -25,7 +25,7 @@ public class App {
     }
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
-        staticFileLocation("/public");
+        staticFileLocation("/public");p
 
         Sql2oDepartmentsDao departmentsDao;
         Sql2oNewsDao newsDao;
