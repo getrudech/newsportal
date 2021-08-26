@@ -13,7 +13,7 @@ JSON.
 
 ###Setup Instructions.
 
-For You to have a copy of this application, fork and clone this repository [] into your local machine.
+For You to have a copy of this application, fork and clone this repository [https://github.com/getrudech/newsportal.git] into your local machine.
 Run the create.sql file using psql<create.sql to setup the psql databases locally.
 
 To vies the Full working API, click on the following link: [].
