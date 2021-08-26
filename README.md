@@ -23,7 +23,7 @@ To vies the Full working API, click on the following link: [].
 There are no known bugs currently. The page works as expected. 
 Support and Contact Details For any comments,suggestions,feedback or inquiries, contact me via email:[gcherono15@gmail.com]
 
-###Database Tables
+###Database Tables.
 
 This is the database structure of the Organizational News Portal API inclusive of test database.
 
