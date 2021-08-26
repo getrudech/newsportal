@@ -19,8 +19,8 @@ public class Sql2oNewsDaoTest {
 
     @BeforeClass //changed to @BeforeClass (run once before running any tests in this file)
     public static void setUp() throws Exception { //changed to static
-        String connectionString = "jdbc:postgresql://localhost:5432/organization_portal_test"; //connect to Organization_Portal, not Organization_Portal_test!
-        Sql2o sql2o = new Sql2o(connectionString, "damark", "password");
+        String connectionString = "jdbc:h2:mem:testing;INIT=RUNSCRIPT from 'classpath:db/create.sql'"; //connect to Organization_Portal, not Organization_Portal_test!
+        Sql2o sql2o = new Sql2o(connectionString, "", "");
         newsDao = new Sql2oNewsDao(sql2o);
         departmentsDao = new Sql2oDepartmentsDao(sql2o);
         conn = sql2o.open(); //open connection once before this test file is run

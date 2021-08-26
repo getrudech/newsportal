@@ -42,8 +42,8 @@ public class App {
         //postgres://qmgvctoxaejxgt:d4a72222987588c95f8f6ecc59fec20e2e1b18ba9231bdadabcebd272404ccf1@ec2-35-153-114-74.compute-1.amazonaws.com:5432/de189lcl3pv76p
 
 
-        String connectionString = "jdbc:postgresql://ec2-35-153-114-74.compute-1.amazonaws.com:5432/de189lcl3pv76p"; //connect to Organization_Portal, not Organization_Portal_test!
-        Sql2o sql2o = new Sql2o(connectionString, "qmgvctoxaejxgt", "d4a72222987588c95f8f6ecc59fec20e2e1b18ba9231bdadabcebd272404ccf1");
+        String connectionString = "jdbc:postgresql://5432/organization_portal"; //connect to Organization_Portal, not Organization_Portal_test!
+        Sql2o sql2o = new Sql2o(connectionString, "getrude", "getty@2003");
 
 
         departmentsDao = new Sql2oDepartmentsDao(sql2o);

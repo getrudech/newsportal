@@ -1,2 +1,0 @@
-DROP DATABASE Organization_Portal_Test;
-DROP DATABASE Organization_Portal;
