@@ -54,4 +54,4 @@ CREATE DATABASE organization_portal_Test WITH TEMPLATE organization_portal;
 The heroku databse is #postgresql-rugged-71171
  
 ###License 
-This project is licensed under the MIT Open Source license Copyright (c) 2021. [getty]
+This project is licensed under the MIT Open Source license Copyright (c) 2021. [getty].
