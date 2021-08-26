@@ -6,7 +6,7 @@
 This is an API that allows users to key in organizations departments, users in that department and news relating to that department.
 It also allows fetching of the inputted data.
 
-###Technologiess Used.
+###Technologies Used.
 
 Java Spark.Java Gradle Maven.
 JSON
