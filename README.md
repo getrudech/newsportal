@@ -11,7 +11,7 @@ It also allows fetching of the inputted data.
 Java Spark.Java Gradle Maven.
 JSON.
 
-###Setup Instructions
+###Setup Instructions.
 
 For You to have a copy of this application, fork and clone this repository [] into your local machine.
 Run the create.sql file using psql<create.sql to setup the psql databases locally.
