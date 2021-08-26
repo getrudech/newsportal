@@ -1,4 +1,4 @@
-#Organizational News Portal API, August 26 2021 .
+#Organizational News Portal API, August, 26 2021 .
 ##By Getrude Cherono.
 
 ###Description.
